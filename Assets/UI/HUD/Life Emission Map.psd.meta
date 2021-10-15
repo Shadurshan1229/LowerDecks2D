@@ -1,24 +1,24 @@
 fileFormatVersion: 2
-guid: 645d5498abfee4343a05ca05c087a333
+guid: 8bc604e33a2d7a24e8c6db6afef8bf30
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8770001503089466214
-    second: Life_0
+      213: -8834097072413688077
+    second: Life Emission Map_0
   - first:
-      213: 4974403084737825917
-    second: Life_1
+      213: -1314588516848803952
+    second: Life Emission Map_1
   - first:
-      213: -3859521769266734839
-    second: Life_2
+      213: 5934077184007426046
+    second: Life Emission Map_2
   - first:
-      213: 3111174479070320432
-    second: Life_3
+      213: -5016376159163613159
+    second: Life Emission Map_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 0
+    enableMipMap: 1
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -62,9 +62,9 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
-  alphaIsTransparency: 1
+  alphaIsTransparency: 0
   spriteTessellationDetail: -1
-  textureType: 8
+  textureType: 0
   textureShape: 1
   singleChannelComponent: 0
   flipbookRows: 1
@@ -127,85 +127,85 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Life_0
+      name: Life Emission Map_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 127
-        width: 125
-        height: 29
+        x: 3
+        y: 128
+        width: 123
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a94e5b03912ba4680800000000000000
-      internalID: -8770001503089466214
+      spriteID: 3feb677848bf66580800000000000000
+      internalID: -8834097072413688077
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Life_1
+      name: Life Emission Map_1
       rect:
         serializedVersion: 2
-        x: 2
-        y: 87
-        width: 125
-        height: 29
+        x: 3
+        y: 88
+        width: 123
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d7cc7630041a80540800000000000000
-      internalID: 4974403084737825917
+      spriteID: 09f5b6b75b4a1cde0800000000000000
+      internalID: -1314588516848803952
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Life_2
+      name: Life Emission Map_2
       rect:
         serializedVersion: 2
-        x: 2
-        y: 47
-        width: 125
-        height: 29
+        x: 3
+        y: 48
+        width: 123
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 90918f34669307ac0800000000000000
-      internalID: -3859521769266734839
+      spriteID: eff438e32c31a5250800000000000000
+      internalID: 5934077184007426046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Life_3
+      name: Life Emission Map_3
       rect:
         serializedVersion: 2
-        x: 2
-        y: 7
-        width: 125
-        height: 29
+        x: 3
+        y: 8
+        width: 123
+        height: 27
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0375f3b74bc1d2b20800000000000000
-      internalID: 3111174479070320432
+      spriteID: 910805d0670426ab0800000000000000
+      internalID: -5016376159163613159
       vertices: []
       indices: 
       edges: []
@@ -219,9 +219,7 @@ TextureImporter:
     indices: 
     edges: []
     weights: []
-    secondaryTextures:
-    - texture: {fileID: 2800000, guid: 8bc604e33a2d7a24e8c6db6afef8bf30, type: 3}
-      name: _Emission
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 1
